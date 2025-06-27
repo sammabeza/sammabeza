@@ -1,16 +1,30 @@
-## Hi there 👋
+# Sam Mabeza
 
-<!--
-**sammabeza/sammabeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student and aspiring systems librarian with interests in low-level programming, narrative systems, and information architecture. I build tools that bridge the gap between technology and knowledge preservation.
 
-Here are some ideas to get you started:
+## Current Focus
+- Completing [CS50](https://cs50.harvard.edu/) — foundational computer science with C
+- Learning Kotlin for high school robotics team
+- Preparing for AP Computer Science A (Java) and AP Statistics
+- Developing proficiency with Git and version control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### [Library Inventory Tracker](https://github.com/sammabeza/library-inventory)
+Terminal-based inventory management system for library collections. Implements case-insensitive duplicate detection, formatted reporting, and persistent data storage for tracking books, authors, and circulation data.
+
+### [Book Review Tracker](https://github.com/sammabeza/book-review-tracker)
+Terminal application for managing book reviews with star ratings and written feedback. Features automatic file persistence and review browsing functionality.
+
+### Art Heist Narrative Game *(Work in Progress)*
+C-based branching narrative game inspired by *The Art Thief*. Players plan heists while managing emotional states through dynamic dialogue and chance-based outcomes.
+
+## Technical Skills
+
+**Languages:** C, Java (learning), Kotlin (learning)  
+**Tools:** Git, VS Code  
+**Interests:** Systems programming, digital archives, narrative game design, information organization
+
+## Note on Repositories
+
+Most of my early coursework remains in private repositories (CS50 academic integrity), but I'm actively sharing personal projects and original work as I continue learning.
