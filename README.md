@@ -17,7 +17,7 @@ Terminal-based inventory management system for library collections. Implements c
 Terminal application for managing book reviews with star ratings and written feedback. Features automatic file persistence and review browsing functionality.
 
 ### [The Art of Theft *(or, The Art Thief)*](https://github.com/sammabeza/art-thief)
-Terminal-based art heist sim where players build a criminal reputation through strategic museum thefts. Built in C to explore game design, decision trees, and narrative mechanics. Inspired by The Art Thief by Michael Finkel.
+Terminal-based art heist sim where players build a criminal reputation through strategic museum thefts. Built in C to explore game design, decision trees, and narrative mechanics. Inspired by *The Art Thief* by Michael Finkel.
 
 ## Technical Skills
 
