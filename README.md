@@ -16,8 +16,8 @@ Terminal-based inventory management system for library collections. Implements c
 ### [Book Review Tracker](https://github.com/sammabeza/book-review-tracker)
 Terminal application for managing book reviews with star ratings and written feedback. Features automatic file persistence and review browsing functionality.
 
-### Art Heist Narrative Game *(Work in Progress)*
-C-based branching narrative game inspired by *The Art Thief*. Players plan heists while managing emotional states through dynamic dialogue and chance-based outcomes.
+### [The Art of Theft *(or, The Art Thief)*](https://github.com/sammabeza/art-thief)
+Terminal-based art heist sim where players build a criminal reputation through strategic museum thefts. Built in C to explore game design, decision trees, and narrative mechanics. Inspired by The Art Thief by Michael Finkel.
 
 ## Technical Skills
 
