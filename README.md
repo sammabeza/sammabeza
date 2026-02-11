@@ -4,8 +4,7 @@ Computer Science student and aspiring systems librarian with interests in low-le
 
 ## Current Focus
 - Completing [CS50](https://cs50.harvard.edu/) — foundational computer science with C
-- Learning Kotlin for high school robotics team
-- Preparing for AP Computer Science A (Java) and AP Statistics
+- Studying for AP Computer Science A class
 - Developing proficiency with Git and version control
 
 ## Projects
@@ -21,7 +20,7 @@ Terminal-based art heist sim where players build a criminal reputation through s
 
 ## Technical Skills
 
-**Languages:** C, Java (learning), Kotlin (learning)  
+**Languages:** C, Java (learning)  
 **Tools:** Git, VS Code  
 **Interests:** Systems programming, digital archives, narrative game design, information organization
 
